@@ -2,7 +2,7 @@
 **Following are 25 major Algorithm for fresher and experienced persons**
 
 **Basics**
-- Hhuffman coding compression Algo
+- Huffman coding compression Algo
 - Euclid's Algo
 - Union Find Algo
 
