@@ -1,4 +1,13 @@
 # Datastructure_and_Algorithms_using_Pythhon
+
+**Following are the Data Structure**
+- Linked Lists
+- Stacks
+- Queues
+- Deques
+
+
+
 **Following are 25 major Algorithm for fresher and experienced persons**
 
 **Basics**
