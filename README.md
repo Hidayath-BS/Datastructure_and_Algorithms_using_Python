@@ -1,2 +1,5 @@
 # Datastructure_and_Algorithms_using_Pythhon
-Using Python
+** Following are 25 major Algorithm for fresher and experienced persons **
+
+
+
