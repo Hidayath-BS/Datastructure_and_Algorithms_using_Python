@@ -1,4 +1,4 @@
-# Datastructure_and_Algorithms_using_Pythhon
+# Datastructure_and_Algorithms_using_Python
 
 **Data Structure:- A data Structure is a data organization, management, and storage format that enables efficient access and modification.**
 
