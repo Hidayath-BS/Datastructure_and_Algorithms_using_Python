@@ -1,5 +1,7 @@
 # Datastructure_and_Algorithms_using_Pythhon
 
+**Data Structure:- A data Structure is a data organization, management, and storage format that enables efficient access and modification.**
+
 **Following are the Data Structure**
 - Linked Lists
 - Stacks
@@ -7,6 +9,16 @@
 - Deques
 
 
+
+**Algorithm:- A set of steps or istruction for completing a task.**
+
+**Hints:-**
+- Clearly definned problem statement, input and output.
+- The steps i Algorithm need to be very specific order.
+- Steps also need distinct.
+- Algorithm should produce a result.
+- Algorithm should complete in a finite amount of time.
+- correctness and efficiency (time complexity and space complexity).
 
 **Following are 25 major Algorithm for fresher and experienced persons**
 
