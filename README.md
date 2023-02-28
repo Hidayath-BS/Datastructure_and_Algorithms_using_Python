@@ -29,9 +29,14 @@
 **Following are 25 major Algorithm for fresher and experienced persons**
 
 **Basics**
-- Huffman coding compression Algo
-- Euclid's Algo
-- Union Find Algo
+- **Huffman coding compression Algo:**
+  Huffman coding is a lossless data compression algorithm that was developed by David A.The basic idea of Huffman coding is to use variable-length codes to represent symbols in a message, where the more frequently occurring symbols are assigned shorter codes and the less frequently occurring symbols are assigned longer codes. This allows for efficient compression of the message without losing any information.
+
+- **Euclid's Algo:**
+  is an efficient method for computing the greatest common divisor (GCD) of two integers (numbers), the largest number that divides them both without a remainder.
+
+- **Union Find Algo:**
+  
 
 **Searching**
 - Linear Search
