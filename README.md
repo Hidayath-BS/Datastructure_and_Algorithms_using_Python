@@ -36,7 +36,7 @@
   is an efficient method for computing the greatest common divisor (GCD) of two integers (numbers), the largest number that divides them both without a remainder.
 
 - **Union Find Algo:**
-  
+  Union-Find algorithm is a data structure that is used to solve problems that involve grouping elements into disjoint sets and performing certain operations on those sets. It is also known as Disjoint Set Union (DSU).
 
 **Searching**
 - Linear Search
