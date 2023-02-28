@@ -3,16 +3,16 @@
 **Data Structure:- A data Structure is a data organization, management, and storage format that enables efficient access and modification.**
 
 **Following are the Data Structure**
-- Linked Lists::
+- **Linked Lists:**
   consists of a sequence of elements, each of which contains a reference (or pointer) to the next element in the sequence. Unlike an array, which stores elements in contiguous memory locations, a linked list allows for dynamic memory allocation and efficient insertion and deletion of elements.
 
-- Stacks::
+- **Stacks:**
   A stack is an ordered collection of elements where elements are added and removed from the same end, called the "top" of the stack. The last element added to the stack is the first one to be removed, a property known as "last in, first out" (LIFO).
 
-- Queues::
+- **Queues:**
   A queue, on the other hand, is an ordered collection of elements where elements are added to one end, called the "rear" of the queue, and removed from the other end, called the "front" of the queue. The first element added to the queue is the first one to be removed, a property known as "first in, first out" (FIFO).
 
-- Deques::
+- **Deques:**
   A deque, short for "double-ended queue," is a data structure that allows elements to be added or removed from both ends, unlike a stack or a queue, which only allow operations on one end. A deque can be visualized as a generalization of both a stack and a queue, where elements can be added to or removed from either the front or the back of the deque.
 
 
