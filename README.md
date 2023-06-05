@@ -39,31 +39,31 @@
   Union-Find algorithm is a data structure that is used to solve problems that involve grouping elements into disjoint sets and performing certain operations on those sets. It is also known as Disjoint Set Union (DSU).
 
 **Searching**
-- Linear Search
-- Binary Search
-- Depth First Search(DFS)
-- Breath First Search(BFS)
+- **Linear Search**
+- **Binary Search**
+- **Depth First Search(DFS)**
+- **Breath First Search(BFS)**
 
 **Sorting**
-- Innsertion sort
-- Heap sort
-- Selection sort
-- Merge sort
-- Quick sort
-- Counnting sort
+- **Innsertion sort**
+- **Heap sort**
+- **Selection sort**
+- **Merge sort**
+- **Quick sort**
+- **Counnting sort**
 
 **Graphs**
-- Kruskal's Algo 
-- Dijkstra's Algo 
-- Bellmann Ford Algo
-- Floyd warshall Algo
-- Topological sort Algo
-- Flood Fill Algo
-- Lee Algo
+- **Kruskal's Algo**
+- **Dijkstra's Algo**
+- **Bellmann Ford Algo**
+- **Floyd warshall Algo**
+- **Topological sort Algo**
+- **Flood Fill Algo**
+- **Lee Algo**
 
 **Array**
-- Kodane's Algo
-- Floy's cycle detection
-- KMP Algo
-- quick select Algo
-- Boyer more majority vote Algo
+- **Kodane's Algo**
+- **Floy's cycle detection**
+- **KMP Algo**
+- **quick select Algo**
+- **Boyer more majority vote Algo**
