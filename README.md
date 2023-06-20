@@ -84,31 +84,31 @@
   The Bellman-Ford algorithm is a popular algorithm used to find the shortest path between a source vertex and all other vertices in a weighted graph. It is capable of handling graphs with negative edge weights, unlike Dijkstra's algorithm. However, it cannot handle graphs with negative cycles.
 
 - **Floyd warshall Algo:**
-  
+  The Floyd-Warshall algorithm is an algorithm used to find the shortest paths between all pairs of vertices in a weighted graph, including both directed and undirected graphs. It is based on the dynamic programming technique and can handle graphs with both positive and negative edge weights, but cannot handle graphs with negative cycles.
 
 - **Topological sort Algo:**
-
+  Topological sort, also known as topological ordering or topological ordering, is an algorithm used to order the vertices of a directed acyclic graph (DAG) in such a way that for every directed edge (u, v), vertex u comes before v in the ordering. In other words, it assigns a linear ordering to the vertices such that for every directed edge, the source vertex appears before the destination vertex. Topological sorting is commonly used in scheduling tasks, dependency resolution, and finding a valid order of execution in a directed graph where certain tasks or operations must be performed before others.
 
 - **Flood Fill Algo:**
-
+  The flood fill algorithm is a technique used to fill a connected region of a grid or image with a specific color or pattern. It is commonly used in computer graphics, image processing, and interactive applications. The algorithm starts at a given pixel or cell in the grid and recursively explores neighboring pixels or cells. It checks the color or properties of each pixel and determines whether to continue the exploration or stop. The flood fill algorithm typically uses depth-first search (DFS) or breadth-first search (BFS) to traverse the grid.
 
 - **Lee Algo:**
-
+  The Lee algorithm, also known as Lee's breadth-first search algorithm, is an algorithm used to find the shortest path between two points in a grid or maze. It is based on the breadth-first search (BFS) traversal technique.
 
 
 **Array**
 - **Kodane's Algo:**
-
+  The Kadane's algorithm, also known as Kadane's Maximum Subarray Sum algorithm, is an efficient algorithm used to find the maximum sum of a contiguous subarray within an array of numbers. It solves the problem in linear time complexity, making it an optimal solution.
 
 - **Floy's cycle detection:**
-
+  Floyd's cycle detection algorithm, also known as the Tortoise and Hare algorithm, is an algorithm used to detect cycles in a linked list or any sequence of elements. It is based on the concept of two pointers moving through the sequence at different speeds.
 
 - **KMP Algo:**
-
+  The Knuth-Morris-Pratt (KMP) algorithm is a pattern-matching algorithm that efficiently finds all occurrences of a given pattern in a text string. It achieves this by utilizing the information gathered from previous pattern comparisons to avoid unnecessary backtracking.
 
 - **quick select Algo:**
-
+  The QuickSelect algorithm is a variation of the QuickSort algorithm that efficiently finds the k-th smallest element in an unordered list or array. It is an efficient selection algorithm with an average time complexity of O(n), where n is the size of the input.
 
 - **Boyer more majority vote Algo:**
-
+  The Boyer-Moore Majority Vote algorithm is an efficient algorithm used to find the majority element in an array. The majority element is defined as the element that appears more than ⌊n/2⌋ times, where n is the size of the array.
 
